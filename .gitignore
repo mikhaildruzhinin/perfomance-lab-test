@@ -1,0 +1,4 @@
+data/
+task-venv/
+.DS_Store
+*.pdf
